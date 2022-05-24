@@ -1,0 +1,69 @@
+source_dataset,variable_name,meaning,unit
+fryxell2018,meso,mesocosm number,
+fryxell2018,treat,warmed (w) or unwarmed (u) and population code,
+fryxell2018,pop,"population (wsu = warm springs, aw = artesian well (incl small artesian well?), ne = northeast spring, k2 = keough hot ditch, lhc = little hot creek, blm = BLM spring, nf = no fish",
+fryxell2018,poptemp,source population temperature in degrees celsius,
+fryxell2018,fish,fish present yes or no (y or n),
+fryxell2018,block,"a, b, c or d",
+fryxell2018,date,date of sample,
+fryxell2018,timepoint,timepoint of sample,
+fryxell2018,dayssincetreat,days since treatment,
+fryxell2018,dawn1do,dissolved oxygen concentration at dawn 1 (mg/L),mg/L
+fryxell2018,duskdo,dissolved oxygen concentration at dusk (mg/L),mg/L
+fryxell2018,dawn2do,dissolved oxygen concentration at dawn 2 (mg/L),mg/L
+fryxell2018,npp,net primary productivity (delta mg/L),delta mg/L
+fryxell2018,er,ecosystem respiration (delta mg/L),delta mg/L
+fryxell2018,gpp,gross primary productivity (delta mg/L),delta mg/L
+fryxell2018,pchla,pelagic chlorophyll a (ug/L),ug/L (micrograms per L)?
+fryxell2018,nox,nitrogen oxide conc.,ug/L (micrograms per L)?
+fryxell2018,po4,phosphorus conc.,ug/L (micrograms per L)?
+fryxell2018,nh4,ammonium conc.,ug/L (micrograms per L)?
+fryxell2018,pH,pH level,pH
+fryxell2018,h20depth,water depth,cm
+fryxell2018,spc,specific conductance (ce),ce
+fryxell2018,tempdusk,Temperature at dusk,degrees celsius
+fryxell2018,temp9am,Temperature at 9am,degrees celsius
+fryxell2018,nfishf,number of fish at end of experiment,individuals
+fryxell2018,nmalesf,number males at end of experiment,individuals
+fryxell2018,nonmalesf,number non-male fish at end of experiment,individuals
+fryxell2018,wetf,total fish wet biomass at end of experiment,grams?
+fryxell2018,dryf,total fish dry biomass at end of experiment,grams?
+fryxell2018,naupliuscopepodlarvae,nauplius (crustacean larvae) abundance,individuals (catch per unit effort)?
+fryxell2018,cladocerans,cladoceran abundance,individuals
+fryxell2018,copepodjuvenilesandadults,adult and juvenile copepod abundance,individuals (catch per unit effort)?
+fryxell2018,totalzoopbiomass,Total Zooplankton biomass,grams?
+fryxell2018,chironomidlarva,chironomid larva abundance,individuals (catch per unit effort)?
+fryxell2018,chiropupa,chironomid pupa abundance,individuals (catch per unit effort)?
+fryxell2018,mayfly,mayfly abundance,individuals (catch per unit effort)?
+fryxell2018,boatmen,boatmen abundance,individuals (catch per unit effort)?
+fryxell2018,backswim,backswim abundance,individuals (catch per unit effort)?
+fryxell2018,beetle,beetle abundance,individuals (catch per unit effort)?
+fryxell2018,skeeter,skeeter abundance,individuals (catch per unit effort)?
+fryxell2018,skeeterpup,skeeterpup abundance,individuals (catch per unit effort)?
+fryxell2018,dfly,dragonfly abundance,individuals (catch per unit effort)?
+fryxell2018,totalmacro,total macroinvertebrate abundance,individuals (catch per unit effort)?
+fryxell2018,totalbenthicdrymassaltogether,total benthic dry mass altogether,grams?
+fryxell_palkovacs2014,meso,mesocosm number,
+fryxell_palkovacs2014,week,week number (of experiment),
+fryxell_palkovacs2014,TempTreat,warmed (w) (+ 2 degrees celsius) or unwarmed (u),
+fryxell_palkovacs2014,FishTreat,"hot-sourced (h), cold-sourced (c) or no fish (n)","n, c or h"
+fryxell_palkovacs2014,Treatt,,absent or present?
+fryxell_palkovacs2014,dawnpH,pH level at dawn,pH
+fryxell_palkovacs2014,speccond,species condition?,
+fryxell_palkovacs2014,pchla,p??? chlorophyll a,ug/L (micrograms per L)
+fryxell_palkovacs2014,er,ecosystem respiration,mg/L
+fryxell_palkovacs2014,gpp,global primary production,mg/L
+fryxell_palkovacs2014,npp,net primary production,mg/L
+fryxell_palkovacs2014,nox,nitrogen oxide concentration,ppm
+fryxell_palkovacs2014,po4,phosphorus concentration,ppm
+fryxell_palkovacs2014,nh4,ammonium concentration,ppm
+fryxell_palkovacs2014,nfishf,number of fish at finish,individuals
+fryxell_palkovacs2014,cladocerancounts,"cladoceran amount (number), mean lengths (μm)",ug/sample (micrograms per sample)
+fryxell_palkovacs2014,copepodadultsandjuvenilescount,number of copepods (adults and juveniles),ug/sample (micrograms per sample)
+fryxell_palkovacs2014,naupliuscount,nauplius (crustacean larvae) abundance,ug/sample (micrograms per sample)
+fryxell_palkovacs2014,crustzoopbiomass,Crustacean (adult) and Zooplankton Biomass,ug/sample (micrograms per sample)
+fryxell_palkovacs2014,rotifercount,"rotifer amount (number), mean lengths (μm)",ug/sample (micrograms per sample)
+fryxell_palkovacs2014,T4fishbiomass,fish biomass at end of experiment,grams?
+fryxell_palkovacs2014,T4malecount,male fish count at end of experiment,individuals
+fryxell_palkovacs2014,T4femalecount,female fish count at end of experiment,individuals 
+fryxell_palkovacs2014,T4immaturecount,immature fish count at end of experiment,individuals

@@ -1,0 +1,60 @@
+"","authors","date","teamnumber","parameter","mintra","sdintra","nintra","mspecies","sdspecies","nspecies","intraspecfic.effect.size","species.effect.size","yi","vi"
+"1","Wood et al.",2020,"Team 1","Phosphate concentration",0.001,0.01,23,NA,NA,NA,0.1,NA,NA,NA
+"2","Wood et al.",2020,"Team 1","Ammonium concentration",0.0036,0.014,23,NA,NA,NA,0.2571,NA,NA,NA
+"3","Wood et al.",2020,"Team 1","pH",0.01,0.1051,23,NA,NA,NA,0.0951,NA,NA,NA
+"4","Wood et al.",2020,"Team 1","Pelagic chlorophyll a",0.4447,1.011,23,NA,NA,NA,0.4399,NA,NA,NA
+"5","Wood et al.",2020,"Team 1","Nitrate concentration",3e-04,8e-04,23,NA,NA,NA,0.375,NA,NA,NA
+"6","Wood et al.",2020,"Team 1","Cladoceran abundance",2.249,18.6888,23,NA,NA,NA,0.1203,NA,NA,NA
+"7","Wood et al.",2022,"Team 2","Gross Primary Productivity",0.0475,0.5676,16,0.2592,0.5364,26,0.0837,0.4831,0.488642760677085,0.103804059265849
+"8","Wood et al.",2022,"Team 2","Total zooplankton density",382.8232,513.5474,16,271.2954,704.5962,26,0.7454,0.385,-0.181055269045575,0.101351788585933
+"9","Wood et al.",2022,"Team 2","Phytoplankton biomass",0.3288,1.0865,16,1.7804,1.4329,26,0.3026,1.2425,1.2378147898639,0.119201841485417
+"10","Wood et al.",2022,"Team 2","Copepod abundance",8.5541,247.6316,16,1.4691,91.7254,26,0.0345,0.016,-0.0956089907602567,0.101070360831946
+"11","Wood et al.",2022,"Team 2","Cladoceran abundance",203.6907,247.6316,16,130.1504,342.674,26,0.8226,0.3798,-0.241920122252228,0.101658268765711
+"12","Fryxell & Palkovacs",2017,"Team 3","Phytoplankton biomass",0.7867,4.5331,24,4.32,4.2388,36,0.1735,1.0192,1.04731140882224,0.0785849543365213
+"13","Fryxell & Palkovacs",2017,"Team 3","Total zooplankton biomass",14.9623,63.0217,24,122.0427,111.3863,36,0.2374,1.0957,1.2142755025766,0.0817316527457582
+"14","Fryxell & Palkovacs",2017,"Team 3","Ecosystem Respiration",0.1367,0.6663,24,0.6333,0.7472,36,0.2051,0.8476,0.835303264736066,0.0752588739784339
+"15","Fryxell & Palkovacs",2017,"Team 3","Phosphate concentration",0.001,0.0036,24,0.0093,0.0088,36,0.2847,1.0512,1.19332632813544,0.0813113421562879
+"16","Fryxell & Palkovacs",2017,"Team 3","Net Primary Productivity",0.0317,0.7124,24,0.6142,0.7124,36,0.0445,0.8621,1.03821754155653,0.0784269083077418
+"17","Fryxell & Palkovacs",2017,"Team 3","Gross Primary Productivity",0.1933,1.5905,24,1.3625,1.5905,36,0.1216,0.8566,0.929514762213554,0.0766444252208855
+"18","Wood et al",2019,"Team 4","Periphyton (chla or dry mass)",3.502,162.528,23,130.4955,175.3031,47,0.0215,0.7444,0.870940526269273,0.0701729809020903
+"19","Wood et al",2019,"Team 4","Gross Primary Productivity",0.0083,0.0477,23,0.11,0.0735,47,0.1739,1.4963,1.65863695064421,0.0844054032859771
+"20","Wood et al",2019,"Team 4","Total zooplankton biomass",54.6667,219.804,23,199.75,300.3511,47,0.2487,0.6651,0.576252512047407,0.0671267634545386
+"21","Wood et al.",2019,"Team 4","Pelagic chlorophyll a",0.2483,3.3271,23,5.9603,3.699,48,0.0746,1.6113,1.84865242771185,0.0883786068682852
+"22","Fryxell et al.",2015,"Team 5","Net Primary Productivity",NA,NA,NA,0.069,0.096,36,NA,0.7188,NA,NA
+"23","Fryxell et al.",2015,"Team 5","Pelagic chlorophyll a",NA,NA,NA,3.892,1.998,36,NA,1.9479,NA,NA
+"24","Fryxell et al.",2015,"Team 5","pH",NA,NA,NA,0.173,0.126,36,NA,1.373,NA,NA
+"25","Fryxell et al.",2015,"Team 5","Gross Primary Productivity",NA,NA,NA,0.164,0.258,36,NA,0.6357,NA,NA
+"26","Fryxell et al.",2015,"Team 5","Phosphate concentration",NA,NA,NA,8e-04,0.001,36,NA,0.8,NA,NA
+"27","Fryxell et al.",2015,"Team 5","Nitrate concentration",NA,NA,NA,3e-04,6e-04,36,NA,0.5,NA,NA
+"28","Fryxell et al.",2015,"Team 5","Total zooplankton biomass",NA,NA,NA,1480.033,1052.159,36,NA,1.4067,NA,NA
+"29","Moffett et al.",2019,"Team 6","Phytoplankton biomass",0.6131,1.7103,30,0.9455,1.6492,38,0.3585,0.5733,0.252778682860722,0.060118954148994
+"30","Moffett et al.",2019,"Team 6","Total zooplankton biomass",18.3785,74.6412,32,0.2382,73.5267,40,0.2462,0.0032,-0.319148899733301,0.0569573334736179
+"31","Moffett et al.",2019,"Team 6","Total macroinvertebrate abundance",31.125,137.3042,32,45.8125,132.0926,40,0.2267,0.3468,0.144214969994156,0.0563944302609057
+"32","Moffett et al.",2019,"Team 6","Ammonium concentration",0.2105,1.3667,28,0.0405,1.5477,36,0.154,0.0262,-0.143395793509632,0.0636527068795342
+"33","Moffett et al.",2019,"Team 6","Periphyton (chla or dry mass)",8.5516,47.7302,32,50.0331,62.6913,40,0.1792,0.7981,0.870518062899699,0.0615125117905184
+"34","Moffett et al.",2019,"Team 6","pH",0.1144,0.3138,32,0.0622,0.2858,40,0.3645,0.2176,-0.227979715002799,0.056610935767033
+"35","Moffett et al.",2019,"Team 6","Specific conductance (ce)",1.15,3.5727,32,2.9188,3.6033,40,0.3219,0.81,0.625736458653384,0.0589690702478339
+"36","Benavente et al.",2021,"Team 7","Total zooplankton biomass",NA,NA,NA,4.8644,7.5216,40,NA,0.6467,NA,NA
+"37","Benavente et al.",2021,"Team 7","Phytoplankton biomass",NA,NA,NA,0.3245,2.2625,47,NA,0.1434,NA,NA
+"38","Benavente et al.",2021,"Team 7","Periphyton (chla or dry mass)",NA,NA,NA,0.0542,15.4638,45,NA,0.0035,NA,NA
+"39","Benavente et al.",2021,"Team 7","Pelagic chlorophyll a",NA,NA,NA,0.3245,2.6246,47,NA,0.1236,NA,NA
+"40","Fryxell et al.",2014,"Team 8","Pelagic chlorophyll a",0.2925,0.8705,24,0.5138,0.7764,36,0.336,0.6617,0.34636255816387,0.0704441696252596
+"41","Fryxell et al.",2014,"Team 8","pH",0.0417,0.1122,24,0.0542,0.1499,36,0.3714,0.3614,0.103356027113469,0.0695334650139501
+"42","Fryxell et al.",2014,"Team 8","Gross Primary Productivity",0.0792,0.1989,24,0.0513,0.2151,36,0.398,0.2383,-0.157917621917473,0.0696522609053784
+"43","Fryxell et al.",2014,"Team 8","Net Primary Productivity",0.1125,0.4818,24,0.2304,0.5026,36,0.2335,0.4584,0.293261953823618,0.0701611325574482
+"44","Fryxell et al.",2014,"Team 8","Nitrate concentration",5e-04,0.001,24,2e-04,0.001,36,0.4624,0.1871,-0.353256509454469,0.0704843624567107
+"45","Fryxell et al.",2014,"Team 8","Phosphate concentration",9e-04,0.0018,24,0.0011,0.0023,36,0.5029,0.4788,0.105312989666434,0.0695368679927151
+"46","Fryxell et al.",2014,"Team 8","Cladoceran abundance",1.3333,12.5383,24,221.3333,131.476,36,0.1063,1.6835,2.12598514982452,0.107109551588397
+"47","Fryxell et al.",2014,"Team 8","Copepod abundance",3.9167,4.5967,24,24.875,25.4497,36,0.8521,0.9774,1.03828919242955,0.0784281481704112
+"48","Fryxell et al.",2014,"Team 8","Total zooplankton biomass",33.5316,55.7023,24,960.7025,686.3478,36,0.602,1.3997,1.71503870071935,0.0939557589858205
+"49","Fryxell et al.",2018,"Team 8","Net Primary Productivity",0.018,0.2415,16,0.015,0.229,20,0.0745,0.0655,-0.0170930569279442,0.11250405795271
+"50","Fryxell et al.",2018,"Team 8","Ecosystem Respiration",0.0063,0.2598,16,0.0781,0.2503,20,0.0241,0.3121,0.375098717390708,0.114454153441502
+"51","Fryxell et al.",2018,"Team 8","Gross Primary Productivity",0.0113,0.4916,16,0.0631,0.458,20,0.0229,0.1378,0.147893985774347,0.112803786542059
+"52","Fryxell et al.",2018,"Team 8","Pelagic chlorophyll a",0.1763,2.7203,16,1.941,2.552,20,0.0648,0.7606,0.902743066319997,0.123818681163734
+"53","Fryxell et al.",2018,"Team 8","Nitrate concentration",0.0012,0.0046,16,0.0016,0.0042,20,0.2555,0.3841,0.120736693177177,0.112702463181658
+"54","Fryxell et al.",2018,"Team 8","Phosphate concentration",4e-04,0.001,16,4e-04,9e-04,20,0.3578,0.3877,0,0.1125
+"55","Fryxell et al.",2018,"Team 8","Ammonium concentration",0.0028,0.0079,16,0.0013,0.0075,20,0.3485,0.1731,-0.248285984625142,0.113356193474462
+"56","Fryxell et al.",2018,"Team 8","pH",0.0375,0.1088,16,0.11,0.1166,20,0.3447,0.9434,0.781960600025599,0.12099253305545
+"57","Fryxell et al.",2018,"Team 8","Specific conductance (ce)",0.0017,0.0211,16,0.004,0.0221,20,0.0788,0.1814,0.135804479804598,0.112756150787986
+"58","Fryxell et al.",2018,"Team 8","Total macroinvertebrate abundance",49.25,203.7573,16,6.625,185.8561,20,0.2417,0.0356,-0.291986022740068,0.113684108853827
+"59","Fryxell et al.",2018,"Team 8","Periphyton (chla or dry mass)",0.0357,0.0466,16,1e-04,0.0433,20,0.7656,0.0033,-0.867488913580683,0.122951902988686
